@@ -18,6 +18,10 @@
           
           /* ESSENCIAL: Garante que a seção tenha altura */
    min-height: 100vh; /* Ou use '100vh' para tela cheia */
+
+          width: 100%; 
+    max-width: 100%; 
+    overflow-x: hidden; /* EVITA BARRA DE ROLAGEM HORIZONTAL */
     
  
     /* ... outras propriedades ... */
@@ -34,6 +38,7 @@
 
 
         
+
 
 
 
