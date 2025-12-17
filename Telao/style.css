@@ -9,7 +9,7 @@
         background-image: url("Captura de tela 2025-12-11 172923.png");
     
     /* ESSENCIAL: Garante que a seção tenha altura */
-    height: 400px; /* Ou use '100vh' para tela cheia */
+   min-height: 100vh; /* Ou use '100vh' para tela cheia */
     
     background-size: cover;
     /* ... outras propriedades ... */
@@ -26,5 +26,6 @@
 
 
         
+
 
 
