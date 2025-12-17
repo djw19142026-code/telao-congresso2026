@@ -10,7 +10,7 @@
 
           /* CENTRALIZA A IMAGEM NO FUNDO */
    
-    
+     background-position: center center;
     /* NÃO DEIXA A IMAGEM REPETIR */
     background-repeat: no-repeat;
    
@@ -38,6 +38,7 @@
 
 
         
+
 
 
 
