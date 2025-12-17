@@ -17,7 +17,7 @@
     background-size: cover; 
           
           /* ESSENCIAL: Garante que a seção tenha altura */
-   min-height: 80vh; /* Ou use '100vh' para tela cheia */
+   min-height: 100vh; /* Ou use '100vh' para tela cheia */
     
  
     /* ... outras propriedades ... */
@@ -34,6 +34,7 @@
 
 
         
+
 
 
 
