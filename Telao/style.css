@@ -13,10 +13,13 @@
     
     /* NÃO DEIXA A IMAGEM REPETIR */
     background-repeat: no-repeat;
-    /* ESSENCIAL: Garante que a seção tenha altura */
+   
+    background-size: cover; 
+          
+          /* ESSENCIAL: Garante que a seção tenha altura */
    min-height: 100vh; /* Ou use '100vh' para tela cheia */
     
-    background-size: cover;
+ 
     /* ... outras propriedades ... */
 
         }
@@ -31,6 +34,7 @@
 
 
         
+
 
 
 
