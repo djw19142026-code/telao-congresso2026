@@ -16,7 +16,7 @@
             font-family: 'Inter', sans-serif;
             background-color: #f7f9fb; /* Fundo claro e suave */
         /* Adicione um ?v=1 ou qualquer número após o .jpg */
-            background-image: url("telao.jpg?v=1");
+            background-image: url("fundo-v2.jpg");
 
           /* CENTRALIZA A IMAGEM NO FUNDO */
     background-position: center center;
@@ -48,6 +48,7 @@
 
 
         
+
 
 
 
